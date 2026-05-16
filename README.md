@@ -1,6 +1,8 @@
 # Adventure
 Interactive Power BI dashboard built using the Adventure Works dataset to analyze sales performance, customer behavior, product trends, and regional insights through dynamic visualizations and DAX-driven KPIs.
 
+https://app.powerbi.com/groups/me/reports/782c9bc2-aa9e-4b70-b3ab-518352f3f2f2/70f57414e93021904fb3?experience=power-bi
+
 Adventure Works Power BI Analytics Dashboard
 
 This repository contains a comprehensive Business Intelligence and Data Analytics solution developed in Power BI using the Adventure Works dataset. The project focuses on transforming raw business data into meaningful insights through interactive dashboards, advanced DAX calculations, and data modeling techniques.
